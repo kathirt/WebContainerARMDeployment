@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "sites_Wincontainerwebapp_name": {
-            "value": null
+            "value": "Wincontainerwebapp"
         },
         "serverfarms_ASP_AppServicewincontainer_a8f5_name": {
-            "value": null
+            "value": "ASP-AppServicewincontainer-a8f5"
         }
     }
 }
