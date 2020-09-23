@@ -226,7 +226,7 @@
                     "hostingstart.html"
                 ],
                 "netFrameworkVersion": "v4.0",
-                "windowsFxVersion": "DOCKER|tmkathir/webappwindowscontainernew:latest",
+                "windowsFxVersion": "DOCKER|tmkathir/webappwindowscontainer:latest",
                 "requestTracingEnabled": false,
                 "remoteDebuggingEnabled": false,
                 "remoteDebuggingVersion": "VS2019",
