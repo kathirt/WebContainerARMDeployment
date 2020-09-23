@@ -40,14 +40,14 @@
       },
       "metricThresholdToScaleOut": {
         "type": "Int",
-        "defaultValue": 60,
+        "defaultValue": 70,
         "metadata": {
           "description": "The metric upper threshold.  If the metric value is above this threshold then autoscale engine will initiate scale out action."
         }
       },
       "metricThresholdToScaleIn": {
         "type": "Int",
-        "defaultValue": 20,
+        "defaultValue": 30,
         "metadata": {
           "description": "The metric lower threshold.  If the metric value is below this threshold then autoscale engine will initiate scale in action."
         }
